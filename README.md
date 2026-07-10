@@ -7,9 +7,13 @@ Live website URL : [https://nutricheck-frontend-partheev-dev.apps.sandbox.x8i5.p
 ## Demonstration video link 
 [https://drive.google.com/file/d/1xNQtir7lDM0P9NdaWEpyf6RaoBmJmXOR/view?usp=sharing](https://drive.google.com/file/d/1xNQtir7lDM0P9NdaWEpyf6RaoBmJmXOR/view?usp=sharing)
 
-Team Details
+Team Details: 
 Kadiyala Sanjay Paul - member
+
 Shaik Mahammad Khasim - member
+
 Doguparthy Venkata Siva Kumar - team lead
+
 Nageswari Penti - member
+
 Shaik Salauddin - member
